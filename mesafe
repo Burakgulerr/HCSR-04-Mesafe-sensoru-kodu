@@ -129,7 +129,7 @@ int main(void)
 
     /* USER CODE BEGIN 3 */
 	  	  sensor_time = Read_HCSR04();			// get the high time
-	  	  distance = sensor_time /18;	// user the formula to get the distance
+	  	  distance = sensor_time /20;	// user the formula to get the distance
 
 	    }
   /* USER CODE END 3 */
